@@ -484,3 +484,6 @@ $RECYCLE.BIN/
 *.swp
 
 .DS_Store
+/src/app.db
+/src/app.db-shm
+/src/app.db-wal
